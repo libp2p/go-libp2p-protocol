@@ -21,7 +21,7 @@
 ## Install
 
 ```sh
-go get libp2p/go-libp2p-protocol
+go get github.com/libp2p/go-libp2p-protocol
 ```
 
 ## Usage
