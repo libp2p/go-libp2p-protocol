@@ -39,3 +39,7 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
 
+
+---
+
+The last gx published version of this module was: 1.0.0: QmZNkThpqfVXs9GNbexPrfBbXSLNYeKrE7jwFM2oqHbyqN
