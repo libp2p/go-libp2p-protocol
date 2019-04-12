@@ -1,9 +1,9 @@
 package protocol
 
-// ID is an identifier used to write protocol headers in streams.
-type ID string
+import moved "github.com/libp2p/go-libp2p/skel/protocol"
 
-// These are reserved protocol.IDs.
-const (
-	TestingID ID = "/p2p/_testing"
-)
+// Deprecated: Use github.com/libp2p/go-libp2p/skel/protocol.ID instead.
+type ID = moved.ID
+
+// Deprecated: Use github.com/libp2p/go-libp2p/skel/protocol.TestingID instead.
+const TestingID = moved.TestingID
