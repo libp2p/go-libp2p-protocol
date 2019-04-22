@@ -1,9 +1,9 @@
 package protocol
 
-import moved "github.com/libp2p/go-libp2p-core/protocol"
+import core "github.com/libp2p/go-libp2p-core/protocol"
 
 // Deprecated: Use github.com/libp2p/go-libp2p-core/protocol.ID instead.
-type ID = moved.ID
+type ID = core.ID
 
 // Deprecated: Use github.com/libp2p/go-libp2p-core/protocol.TestingID instead.
-const TestingID = moved.TestingID
+const TestingID = core.TestingID
