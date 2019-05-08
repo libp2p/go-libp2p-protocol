@@ -2,8 +2,8 @@ package protocol
 
 import core "github.com/libp2p/go-libp2p-core/protocol"
 
-// Deprecated: Use github.com/libp2p/go-libp2p-core/protocol.ID instead.
+// Deprecated: use github.com/libp2p/go-libp2p-core/protocol.ID instead.
 type ID = core.ID
 
-// Deprecated: Use github.com/libp2p/go-libp2p-core/protocol.TestingID instead.
+// Deprecated: use github.com/libp2p/go-libp2p-core/protocol.TestingID instead.
 const TestingID = core.TestingID
