@@ -1,3 +1,5 @@
 module github.com/libp2p/go-libp2p-protocol
 
-require github.com/libp2p/go-libp2p-core v0.0.0-20190508144953-ed42958fbb3a
+go 1.12
+
+require github.com/libp2p/go-libp2p-core v0.0.1
